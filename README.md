@@ -15,7 +15,7 @@ Bochs
 Free combination of the following tags is supported.  
 
 * c : Compile source  
-* w : Write binary files to virtual disk  
+* w : Write binary file to virtual disk  
 * r : Launch Bochsdbg to execute the code
 ## DD_Seek
 The number of blocks skipped at the beginning of the write file, the default unit of the block is 512 bytes.
