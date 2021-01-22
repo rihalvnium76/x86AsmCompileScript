@@ -1,5 +1,5 @@
 A simple Windows script for one-click compilation, writing, and running x86 assembly.  
-This self-used script is suitable for the book ***x86 Assembly Language: From Real Mode to Protected Mode (by Lee Chung)***  and related courses.
+This self-used script is suitable for the book ***x86 Assembly Language: From Real Mode to Protected Mode (by Lee Chung) （《x86汇编语言：从实模式到保护模式》 李忠 著）***  and related courses.
 # Requirement
 NASM  
 Bochs  
